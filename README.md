@@ -38,7 +38,7 @@ Inventory Overview
 Supplier Dashboard
 
 📸 Dashboard Preview
-Dashboard have been 
+![Dashboard Preview](dashboard_preview.png) 
 
 Replace with actual screenshots of your Power BI report pages.
 
