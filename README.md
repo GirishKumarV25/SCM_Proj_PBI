@@ -43,4 +43,4 @@ Supplier Dashboard
 Replace with actual screenshots of your Power BI report pages.
 
 📢 Author
-Created by Girish Kumar V – Passionate about data analytics, visualization, and supply chain optimization.
+Created by Girish Kumar V – Passionate about data analytics, visualization.
