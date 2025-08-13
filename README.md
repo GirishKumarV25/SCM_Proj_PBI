@@ -38,7 +38,7 @@ Inventory Overview
 Supplier Dashboard
 
 📸 Dashboard Preview
-![Dashboard Preview](Supply Chain Management_Project.pdf)
+Dashboard have been 
 
 Replace with actual screenshots of your Power BI report pages.
 
